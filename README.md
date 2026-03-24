@@ -34,3 +34,7 @@ unzip vosk-model-small-ru-0.22.zip -d model
 ```commandline
 python3 main.py
 ```
+или
+```
+env-win/Scripts/python.exe main.py
+```
